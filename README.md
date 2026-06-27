@@ -76,8 +76,6 @@ Daily driver for almost two years — EndeavourOS, Hyprland, Wayland. Comfortabl
 
 ## Featured Projects
 
-> Links below are placeholders — swap them for your actual repos.
-
 **Compiler Implementation**
 A compiler built with ANTLR4 — grammar design, AST construction, semantic analysis (symbol tables, type checks), and a code generation backend.
 
